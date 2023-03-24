@@ -2,16 +2,12 @@
 <br><b>Stopwatch project</b>, designed as a part of internship under <b> TASK 1 </b> of<b> Web Development and Designing </b>,is a dynamic website which can be used to perform operations like:
 
 ## 📓 Tools used
-IDE : VS Code <br><br>
-Front-End
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
-</ul>
+<b>IDE:</b> VS Code <br>
+<b>Front-End:</b><br>
+HTML<br>
+CSS<br>
+JavaScript<br>
 
-
-<br>
 
 ## 👀 Screenshots
 
