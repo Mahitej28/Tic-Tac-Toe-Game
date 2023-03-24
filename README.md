@@ -12,9 +12,9 @@ JavaScript<br>
 
 
 ## 👀 Screenshots
-
-<img src ="/assets/1.png">
-
+<div align="center">
+<img src ="/assets/1.png" width="500px">
+</div>
 
 ## ✍ Author
 
