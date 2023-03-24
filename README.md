@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
 <br>This is a simple Tic Tac Toe game built using some web technologies. The game can be played by two players, taking turns to mark spaces on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
-<b> You can Play the game [here](https://tic-tac-toe-game-swart.vercel.app/)</b>
+<b> You can play the game [here](https://tic-tac-toe-game-swart.vercel.app/)</b>
 
 ## 📓 Tools used
 <b>IDE:</b> VS Code <br>
